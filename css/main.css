@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.body{
+	display: inline-block;
+}
+.menu {
+	height: 1000px;
+	width: 420px;
+	background-color: #CDA5AA;
+	position: fixed;
+	
+}
+
+.main {
+	height: 1000px;
+	width: 1500px;
+	background-color: #F0E8DE;
+
+}
+/*MOST LIKLEY THE MENU*/
+
+h1{
+	text-align: center;
+	font-size: 90px;
+	font-family: 'Snowburst One', cursive;
+
+}
+
+/*MENU BUTTONS*/
+h2{
+	text-align: center;
+	font-family: 'Love Ya Like A Sister', cursive;
+
+}
